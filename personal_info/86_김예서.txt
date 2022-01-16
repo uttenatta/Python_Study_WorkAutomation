@@ -1,0 +1,6 @@
+name : ±è¿¹¼­
+age : 13
+e-mail : lt9s4tzo@naver.com
+division : s7lf
+Mobile : 010-2213-8422
+Sex : male

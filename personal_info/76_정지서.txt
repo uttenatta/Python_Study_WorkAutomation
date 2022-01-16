@@ -1,0 +1,6 @@
+name : Á¤Áö¼­
+age : 13
+e-mail : xfhv5yhl@naver.com
+division : e8o5
+Mobile : 010-8222-1782
+Sex : male

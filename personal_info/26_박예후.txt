@@ -1,0 +1,6 @@
+name : ¹Ú¿¹ÈÄ
+age : 23
+e-mail : 0be9dy74@naver.com
+division : q768
+Mobile : 010-2223-1422
+Sex : female

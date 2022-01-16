@@ -1,0 +1,6 @@
+name : À±ÁöÈ£
+age : 36
+e-mail : sz9xtwpt@naver.com
+division : jh0s
+Mobile : 010-2236-5222
+Sex : male

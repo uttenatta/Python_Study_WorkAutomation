@@ -1,0 +1,6 @@
+name : Á¤À±¼­
+age : 21
+e-mail : rrl5pz5p@naver.com
+division : 0wmp
+Mobile : 010-8521-1285
+Sex : male

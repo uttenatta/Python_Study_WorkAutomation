@@ -1,0 +1,6 @@
+name : À±ÁöÀº
+age : 34
+e-mail : bh8lhzzu@naver.com
+division : ec6n
+Mobile : 010-2234-4522
+Sex : male

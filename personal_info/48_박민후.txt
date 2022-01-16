@@ -1,0 +1,6 @@
+name : ¹Ú¹ÎÈÄ
+age : 36
+e-mail : 3lyyaj24@naver.com
+division : 89jg
+Mobile : 010-2236-5522
+Sex : female

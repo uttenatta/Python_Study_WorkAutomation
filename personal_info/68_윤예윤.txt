@@ -1,0 +1,6 @@
+name : À±¿¹À±
+age : 36
+e-mail : c0x8s8sp@naver.com
+division : ol8u
+Mobile : 010-1236-1712
+Sex : male

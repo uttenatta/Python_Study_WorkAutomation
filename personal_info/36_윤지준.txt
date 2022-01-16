@@ -1,0 +1,6 @@
+name : À±ÁöÁØ
+age : 27
+e-mail : 6sgcty9o@naver.com
+division : 0h65
+Mobile : 010-2227-4822
+Sex : male

@@ -1,0 +1,6 @@
+name : ภๅนฮมุ
+age : 25
+e-mail : ggn7y7s7@naver.com
+division : qann
+Mobile : 010-2225-4722
+Sex : male

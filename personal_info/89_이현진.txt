@@ -1,0 +1,6 @@
+name : ÀÌÇöÁø
+age : 14
+e-mail : bixlrf9e@naver.com
+division : e5e4
+Mobile : 010-2214-8622
+Sex : female

@@ -1,0 +1,6 @@
+name : ÀåÇÏÈÄ
+age : 21
+e-mail : e3zh49v5@naver.com
+division : fsu4
+Mobile : 010-7521-1275
+Sex : male

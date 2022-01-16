@@ -1,0 +1,6 @@
+name : Á¶µµÈ£
+age : 16
+e-mail : cdks4j1o@naver.com
+division : k525
+Mobile : 010-2216-7622
+Sex : female

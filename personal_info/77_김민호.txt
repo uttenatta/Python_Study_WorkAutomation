@@ -1,0 +1,6 @@
+name : ±ËπŒ»£
+age : 22
+e-mail : hatcchpy@naver.com
+division : qje5
+Mobile : 010-8222-1782
+Sex : male

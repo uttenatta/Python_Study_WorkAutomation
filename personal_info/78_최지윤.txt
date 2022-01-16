@@ -1,0 +1,6 @@
+name : ÃÖÁöÀ±
+age : 21
+e-mail : dbsg4lji@naver.com
+division : 1o10
+Mobile : 010-9221-1792
+Sex : male

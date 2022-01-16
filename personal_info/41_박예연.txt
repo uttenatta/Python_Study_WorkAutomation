@@ -1,0 +1,6 @@
+name : ¹Ú¿¹¿¬
+age : 23
+e-mail : 1r2ls3wx@naver.com
+division : frbv
+Mobile : 010-1223-1512
+Sex : male

@@ -1,0 +1,6 @@
+name : ÀÌ¿¹¿ø
+age : 24
+e-mail : yi59kbc7@naver.com
+division : 1zn2
+Mobile : 010-2224-6222
+Sex : male

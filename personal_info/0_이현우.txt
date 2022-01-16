@@ -1,0 +1,6 @@
+name : ÀÌÇö¿ì
+age : 11
+e-mail : dsuk8rjt@naver.com
+division : 2je9
+Mobile : 010-6511-1265
+Sex : male

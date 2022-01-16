@@ -1,0 +1,6 @@
+name : ±Ë¿±¡ÿ
+age : 75
+e-mail : puvqagde@naver.com
+division : 4t30
+Mobile : 010-2375-8123
+Sex : male

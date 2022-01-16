@@ -1,0 +1,6 @@
+name : ÀåÁöÀ±
+age : 19
+e-mail : dzz8es6j@naver.com
+division : f2of
+Mobile : 010-2219-5622
+Sex : male

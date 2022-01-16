@@ -1,0 +1,6 @@
+name : ÀÌ¿¹ÈÄ
+age : 23
+e-mail : o2ikf8ei@naver.com
+division : kkop
+Mobile : 010-7223-1572
+Sex : female

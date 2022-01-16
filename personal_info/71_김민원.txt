@@ -1,0 +1,6 @@
+name : ±è¹Î¿ø
+age : 18
+e-mail : jyz9f76c@naver.com
+division : crmr
+Mobile : 010-2218-7322
+Sex : female

@@ -1,0 +1,6 @@
+name : Á¶¿¹Àº
+age : 15
+e-mail : tt9y51yj@naver.com
+division : vxrs
+Mobile : 010-2215-6422
+Sex : female

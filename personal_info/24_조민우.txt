@@ -1,0 +1,6 @@
+name : Á¶¹Î¿ì
+age : 82
+e-mail : aodgcwe1@naver.com
+division : g8pz
+Mobile : 010-2082-4020
+Sex : male

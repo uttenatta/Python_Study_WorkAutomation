@@ -1,0 +1,6 @@
+name : Á¤¹Î¿ì
+age : 34
+e-mail : g6ew3pez@naver.com
+division : 4zro
+Mobile : 010-2233-5922
+Sex : female

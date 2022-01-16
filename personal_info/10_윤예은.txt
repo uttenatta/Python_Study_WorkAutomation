@@ -1,0 +1,6 @@
+name : À±¿¹Àº
+age : 95
+e-mail : isf91wyg@naver.com
+division : qmzc
+Mobile : 010-3195-1331
+Sex : male

@@ -1,0 +1,6 @@
+name : Á¶¿¹Àº
+age : 35
+e-mail : db41nndv@naver.com
+division : evn7
+Mobile : 010-4635-3146
+Sex : female

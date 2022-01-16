@@ -1,0 +1,6 @@
+name : Á¶Ã¤Áø
+age : 23
+e-mail : 540wpt5t@naver.com
+division : xp3s
+Mobile : 010-1223-1412
+Sex : male

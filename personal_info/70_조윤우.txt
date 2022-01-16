@@ -1,0 +1,6 @@
+name : Á¶À±¿ì
+age : 18
+e-mail : baa08i0j@naver.com
+division : 5ceb
+Mobile : 010-2218-7322
+Sex : male

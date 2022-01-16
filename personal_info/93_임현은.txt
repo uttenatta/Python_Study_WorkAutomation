@@ -1,0 +1,6 @@
+name : ÀÓÇöÀº
+age : 17
+e-mail : bzoikw98@naver.com
+division : ufts
+Mobile : 010-2217-8822
+Sex : male

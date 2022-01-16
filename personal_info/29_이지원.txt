@@ -1,0 +1,6 @@
+name : ÀÌÁö¿ø
+age : 25
+e-mail : 01ek2g9s@naver.com
+division : 0nby
+Mobile : 010-2225-4422
+Sex : female

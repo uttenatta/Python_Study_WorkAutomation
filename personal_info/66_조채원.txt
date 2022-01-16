@@ -1,0 +1,6 @@
+name : Á¶Ã¤¿ø
+age : 66
+e-mail : xsp7ilje@naver.com
+division : 1dm1
+Mobile : 010-2366-7023
+Sex : male

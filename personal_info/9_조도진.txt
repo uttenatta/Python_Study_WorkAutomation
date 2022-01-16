@@ -1,0 +1,6 @@
+name : Á¶µµÁø
+age : 12
+e-mail : qhlplzku@naver.com
+division : scxa
+Mobile : 010-7112-3271
+Sex : female

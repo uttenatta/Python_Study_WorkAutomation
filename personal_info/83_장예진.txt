@@ -1,0 +1,6 @@
+name : Àå¿¹Áø
+age : 22
+e-mail : 0d53gcn9@naver.com
+division : w4rv
+Mobile : 010-2222-1822
+Sex : male
